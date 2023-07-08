@@ -1,4 +1,4 @@
-x = input("Give a word ")
+x = input("Enter a string ")
 y=x[:-1]
 print(y)
 if x==y:
